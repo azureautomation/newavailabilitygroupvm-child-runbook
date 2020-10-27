@@ -1,0 +1,20 @@
+{
+    "Author": "Rob Sewell",
+    "ContentSize": 9669,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/newavailabilitygroupvm-child-runbook/master/Workflow%20New-AvailabilityGroupVM.ps1",
+    "DownloadCount": 712,
+    "Id": "New-AvailabilityGroupVM-2af698c1",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 577,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-1-5T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook creates a number of VMs (default 2) in an availablility group. It will create and attach extra data disks, attach to domain and virtual network if required.\u00a0 \u00a0 Can be used with New-CloudService and New-StorageAccount to automate environment creation\u00a0 \u00a0 Requir",
+    "Title": "New-AvailabilityGroupVM Child Runbook",
+    "UpdatedDate": "2015-1-6T00:00:00",
+    "Url": "https://github.com/azureautomation/newavailabilitygroupvm-child-runbook",
+    "UserTags": "Utility, Windows Azure Virtual Machines, Azure Automation"
+}
